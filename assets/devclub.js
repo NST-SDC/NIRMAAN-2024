@@ -1457,7 +1457,7 @@ import {
             }), l.jsx($e, {
               className: "w-4 h-4 text-pink-500 animate-pulse"
             }), l.jsx("span", {
-              children: "by Dev Club"
+              children: "by Vivek W"
             })]
           }), l.jsx("div", {
             className: "h-px w-full max-w-md bg-gradient-to-r from-transparent via-purple-500 to-transparent opacity-50"
