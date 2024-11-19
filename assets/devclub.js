@@ -1143,7 +1143,7 @@ import {
       name: "Event Details",
       to: "event-details"
     }, {
-      name: "Winter Gifts",
+      name: "Winner Gifts",
       to: "winter-gifts"
     }, {
       name: "Register",
@@ -1398,10 +1398,10 @@ import {
           className: `text-center transform transition-all duration-1000 ${t?"translate-y-0 opacity-100":"translate-y-20 opacity-0"}`,
           children: [l.jsx("h2", {
             className: "text-5xl md:text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400 mb-8",
-            children: "Winter Special Gifts"
+            children: "Winner Special Gifts"
           }), l.jsx("p", {
             className: "text-xl text-purple-200 max-w-3xl mx-auto mb-16",
-            children: "Participate in NIRMAAN and receive these amazing winter special gifts!"
+            children: "Participate in NIRMAAN and receive these amazing Winnerspecial gifts!"
           })]
         }), l.jsx("div", {
           className: "grid grid-cols-1 md:grid-cols-3 gap-8",
