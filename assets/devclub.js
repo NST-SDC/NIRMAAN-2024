@@ -1261,7 +1261,7 @@ import {
                 className: "w-6 h-6 md:w-8 md:h-8 text-purple-400"
               }), l.jsx("span", {
                 className: "text-lg md:text-2xl",
-                children: "10 AM - 12 PM"
+                children: "3 PM - 8 PM"
               })]
             }), l.jsxs("div", {
               className: "flex items-center gap-3 bg-white/5 rounded-full px-6 py-3 backdrop-blur-sm touch-active",
@@ -1293,20 +1293,20 @@ import {
       icon: l.jsx(Se, {
         className: "w-8 h-8"
       }),
-      title: "Prizes Worth ₹50,000",
+      title: "Certificate + Dev Coin + Special Prize",
       description: "Win amazing prizes and recognition for your web development skills"
     }, {
       icon: l.jsx(ke, {
         className: "w-8 h-8"
       }),
       title: "Competition Focus",
-      description: "Create innovative and responsive web applications that solve real-world problems"
+      description: "Create innovative and responsive web applications"
     }, {
       icon: l.jsx(Oe, {
         className: "w-8 h-8"
       }),
       title: "Tech Stack",
-      description: "Use any modern web framework - React, Vue, Angular, or vanilla JavaScript"
+      description: "use HTML, CSS or Use any modern web framework - React, Vue, Angular, or vanilla JavaScript"
     }, {
       icon: l.jsx(Le, {
         className: "w-8 h-8"
@@ -1318,13 +1318,13 @@ import {
         className: "w-8 h-8"
       }),
       title: "Team Size",
-      description: "Participate individually or in teams of up to 3 members"
+      description: "Participate individually or in teams of 2 to 4 members"
     }, {
       icon: l.jsx(Ue, {
         className: "w-8 h-8"
       }),
       title: "Timeline",
-      description: "24-hour hackathon with mentorship sessions and technical support"
+      description: "2.5-hour development phase with mentorship sessions and technical support"
     }];
     return l.jsx("section", {
       className: "py-24 relative overflow-hidden",
